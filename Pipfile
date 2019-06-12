@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 gunicorn = "*"
 flask = "*"
+requests = "*"
+line-bot-sdk = "*"
 
 [dev-packages]
-
-[requires]
 python_version = "3.6"
